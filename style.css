@@ -684,7 +684,7 @@ html:has(dialog[open]) { overflow: hidden; }
 /* ------------------------------------------------------------------
    Navy & Lavender — dark mode ([data-theme="dark"])
    Same palette as Web-HQ / PKPilot0001~0003 / 0006 / diary. The toggle
-   and the stored key (hd2-theme) live in /assets/hd2-theme.js.
+   and the stored key (hd2-theme) live in ./assets/hd2-theme.js.
    ------------------------------------------------------------------ */
 [data-theme="dark"] {
   color-scheme: dark;
